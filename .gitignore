@@ -1,0 +1,18 @@
+# OS / Editor
+.vscode/
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+
+# Laravel
+vendor/
+.env
+.env.*
+storage/*.key
+storage/logs/
+
+# Build
+dist/
+build/

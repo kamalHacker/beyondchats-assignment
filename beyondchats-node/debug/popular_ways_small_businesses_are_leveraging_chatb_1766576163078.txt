@@ -1,0 +1,85 @@
+TITLE:
+Popular Ways Small Businesses Are Leveraging Chatbots | Forethought
+
+SOURCE URL:
+https://forethought.ai/blog/chatbot-for-small-business
+
+CONTENT:
+Now, more than ever, customers turn to technology to help them look for products and services, purchase those products and services, and connect with businesses for support.
+From websites and mobile apps to telephones and chatbots, technology is becoming an essential part of supporting your customers well..
+Chatbots, especially, are one source of technology businesses utilize for better customer engagement and support.
+In fact, the information technology company Capgemini found that 74% of the more than 12,000 consumers they surveyed use chatbot services to research, find, and purchase products and services online..
+More and more businesses are taking advantage of chatbot platforms to connect with and serve their customers.
+Because of their ability to support customers in a variety of ways, chatbots work well to help businesses save time and money..
+If you want to grow your small business and provide your customers with exceptional customer service, implementing a business chatbot is a great place to start..
+At Forethought, we provide businesses in nearly every industry with artificial intelligence services, like chatbots, to improve their services, support, and more.
+We’ll walk you through all of the benefits of using a chatbot and even how to get one set up to use for your own business..
+Chatbots are computer programs that can talk with you and your customers through an online platform, like your website or mobile app.
+When a certain word or phrase is typed into or spoken to the chatbot platform, it triggers a preset answer as a response..
+Much like a simple conversation between two people, chatbots are designed to reply to common customer questions and requests.
+For example, if a customer were to ask what your business hours are to your chatbot, your chatbot could be programmed to reply with those exact hours..
+Effective chatbots can be used in a variety of ways to support your business.
+With conversational AI chatbots, like the ones developed here at Forethought, your chatbot can learn to better serve your customers by interacting with them.
+Conversational AI chatbots are programmed to recognize patterns during customer interactions to provide better, more relevant responses to your customers.
+The more they talk with customers, the more they learn how to help in efficient and immediate ways..
+
+## How Using Chatbots Can Benefit a Small Business
+
+Using chatbots can help small businesses serve more customers faster.
+Small businesses only have so many employees to provide customer support, as well as deal with availability limitations.
+So chatbots help free up employee time to address more pressing customer issues while the technology assists customers with common and simple requests..
+Experts foresee that by 2025, 95 percent of customer interactions will be done through chatbot technology.
+This goes to show just how important implementing chatbots is to your own business.
+Plus, with the many ways you can use chatbots to serve your customers, and serve them faster, you will find just how helpful they can be for you now and in the future..
+Chatbots are also available 24/7, even while your business is closed.
+This assures you and your employees get the rest you all need to continue to perform effectively while also taking care of your customers any time, any day..
+
+## How Are Chatbots Used in a Small Business?
+
+Chatbots provide an additional means for customers to reach out to small businesses.
+Similar to a call center, customers can turn to a chatbot for basic questions and requests.
+Customers can request order updates, order cancellations, product or service information, and more, saving customer service teams valuable time..
+You can also use chatbots to help your small business as a form of marketing to collect customer feedback and data.
+From survey requests to product review prompts, chatbots provide small businesses with another touchpoint to connect with customers and ask for feedback..
+Many conversational chatbot platforms, including the one developed here at Forethought, can integrate with social media, apps like Facebook Messenger, and websites to provide customers with the ability to connect with your business in multiple ways.
+The more touchpoints you have with your customers, the better you can serve them.
+Chatbots help bring all of your business platforms together for outstanding customer service..
+
+## How Do I Create a Chatbot For My Business?
+
+To create a custom chatbot for your business, you need to follow a few steps..
+
+## Step 1: Deciding where you want your chatbot to live.
+
+Common places to host your chatbot include your business website, a mobile app, or social media, like Instagram and Facebook Messenger..
+Once you have decided where your chatbot will be placed, you will need to either create a chatbot program or hire a chatbot vendor..
+After you’ve decided on which conversational chatbot platform you will use, the next step is to build out the chat interface..
+
+## Step 2: Program conversation paths
+
+Program conversation paths with common words or phrases your customers may use to trigger an appropriate response from your chatbot.
+It may help you to ask your customer service team about common customer queries.
+You can also even ask your customers what they would find beneficial from a chatbot..
+Once you have built the framework of predefined questions and common queries, you can begin testing your chatbot and asking for feedback from your team and customers..
+
+## Step 3: Test & Refine Your Chatbot
+
+The more testing and feedback the better, because this will enable your chatbot to work more effectively and save you and your team time and money, as well as provide a better experience for your customers..
+Creating a well-functioning chatbot requires a lot of work upfront and even more upkeep.
+This is why we recommend you use an established chatbot vendor like us here at Forethought.
+Not only will we take care of all the setup and maintenance for you, but our AI-powered chatbot service is also built to learn in real time..
+This means there is no need to jump back into the chatbot’s programming to add additional request/response triggers.
+When you choose Forethought for your chatbot needs, you get a robust and well-built system you and your customers will love..
+
+## Why Small Businesses Love Forethought
+
+Providing an exceptional customer experience; collecting valuable feedback and information; saving time and money you can dedicate to growing your business.
+We have spent years crafting the world’s most intuitive and intelligent chatbot plus AI.
+We know the best bot design practices and our clients love our convenient design..
+Our chatbot's natural, human language and immediate, accurate responses mean your customers won’t feel like they are talking with a chatbot.
+They will feel like they are talking to an actual person who knows your business operations inside and out..
+Tremendous customer experience can be the difference between a small business that grows slowly and one that accelerates in growth and revenue.
+As a small business owner, get the boost, support, and intelligence you need to build the world-class company you envision it as.
+Click the button below to schedule a free demo and see how our conversational AI chatbot can be customized for your own business’s needs today!.
+
+## Hashtags blocks for sticky navbar (visible only for admin)
